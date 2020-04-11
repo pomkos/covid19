@@ -1,0 +1,8 @@
+sqlalchemy
+mysql-connector-python
+pandas
+numpy
+seaborn
+matplotlib
+datetime
+requests
